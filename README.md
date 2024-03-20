@@ -1,6 +1,13 @@
-## Welcome to GitHub Pages
+# This is not a blog 
 
 Served at https://sEver.github.io/log
+
+It shouldn't be a blog. Nver liked blogs. They're way to structured. 
+There's a vibe of regularity to them. A sense of chronological order. 
+We'd rather just write stuff, perhaps with a title, nothing more. 
+
+This will be restructured for better representation of our writing process.
+
 
 You can use the [editor on GitHub](https://github.com/sEver/blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
