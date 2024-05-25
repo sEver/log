@@ -5,7 +5,7 @@ Served at https://sEver.github.io/log
 It shouldn't be a blog. Never liked blogs. They're way to structured. 
 There's a vibe of regularity to them. A sense of chronological order. 
 We'd rather just write stuff, perhaps with a title, a date of creation, date of last update, nothing more. 
-Thing more like articles than blog posts.
+Think more like articles than blog posts.
 
 This will be restructured for better representation of our writing process.
 
