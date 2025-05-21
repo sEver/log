@@ -2,4 +2,4 @@
 #theme: jekyll-theme-minimal #
 #https://github.com/
 #
-remote_theme: sEver/jekyll-theme-chirpy
+remote_theme: https://github.com/sEver/jekyll-theme-chirpy
